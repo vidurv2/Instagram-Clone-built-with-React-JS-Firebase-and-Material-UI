@@ -1,5 +1,8 @@
-# Getting Started with Create React App
+# Instagram-Clone
+This project us built with React JS & Material UI as front-end and Firebase as back-end.
+The application can be accessed by the link : https://react-instagram-copy.web.app/
 
+## Create React App 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
