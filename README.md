@@ -9,8 +9,8 @@ The application can be accessed by the link : https://react-instagram-copy.web.a
 - Firebase-tools module 
 - Material UI module
 
-** All the above packages can be installed with the package.json file using the command :
-#### 'npm install'
+** All the above packages can be installed with the package.json file using the command : **
+#### `npm install`
 
 ## Using Create React App 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
