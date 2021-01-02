@@ -2,6 +2,16 @@
 This project us built with React JS & Material UI as front-end and Firebase as back-end.
 The application can be accessed by the link : https://react-instagram-copy.web.app/
 
+## Pre-requisites
+- create-react-app package 
+- Node , npm
+-  Firebase module 
+- Firebase-tools module 
+- Material UI module
+
+** All the above packages can be installed with the package.json file using the command :
+#### 'npm install'
+
 ## Using Create React App 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
